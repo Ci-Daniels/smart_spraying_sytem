@@ -28,5 +28,5 @@ A system that automatically dispenses liquid detergent to the lavatory incase th
 
 
 ## COCLUSION
- The system was able to dispense liquid detergent when the ammonia level rose above the set value pf ammonium ppm.
+ The system was able to dispense liquid detergent when the ammonia level rose above the set value of ammonium ppm.
 
